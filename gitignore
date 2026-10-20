@@ -1,0 +1,20 @@
+# Kaggle credentials - never share this
+kaggle.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files (hosted on Hugging Face instead)
+*.pth
+*.onnx
