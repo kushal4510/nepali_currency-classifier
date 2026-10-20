@@ -2,7 +2,7 @@
 
 By Kushal (GitHub: kushal4510), IOE Pashchimanchal Campus, Pokhara
 
-**Live demo:** https://kushal4510-nepali-currency-classifier.hf.space
+**Live demo:** https://huggingface.co/spaces/kushal4510/nepali-currency-classifier
 
 A phone-friendly web app that looks at a Nepali currency note and **speaks the amount out loud**. It is built for blind and low-vision users, and it runs fully inside the browser. No server and no app install are needed.
 
